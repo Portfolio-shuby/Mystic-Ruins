@@ -1,5 +1,5 @@
 # :pushpin: Mystic Ruins
->게임 플레이 데모   
+>게임 플레이
 >https://drive.google.com/file/d/1EE2pPsvo2xygQ4Q2I5kPO9wL5JgjHtGb/view?usp=drive_link
 
 </br>
@@ -32,14 +32,8 @@
 </br>
 
 ## 4. 사용 기술
-#### `프로그래머`
 - Unity
 - C#
-
-#### `그래픽 디자이너`
-- 3ds Max
-- Substance 3D Painter
-- Adobe Photoshop
 
 </br>
 
