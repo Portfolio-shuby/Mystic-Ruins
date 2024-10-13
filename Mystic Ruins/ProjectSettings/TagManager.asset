@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tetris
+  - Fire
+  - Water
+  - Boss
+  - Item
+  - Ladder
+  - Ground
+  - Object
+  - Cart
+  - Rock
+  - Coal
+  - FlowedWater
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Fade
+  - Water
+  - UI
+  - 
+  - Ground
+  - 
+  - Pipe
+  - Boss
+  - SwordInvisible
+  - 
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
