@@ -1,5 +1,5 @@
 # :pushpin: Mystic Ruins
->게임 플레이
+게임 플레이 영상
 >https://drive.google.com/file/d/1EE2pPsvo2xygQ4Q2I5kPO9wL5JgjHtGb/view?usp=drive_link
 
 </br>
